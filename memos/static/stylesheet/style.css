@@ -1,0 +1,11 @@
+html {
+    height: 100%;
+
+}
+body {
+    padding: 3rem;
+    height: 100%;
+   background:  rgb(145, 222, 241) 0%;
+    font-family: 'Muli', sans-serif;
+    font-weight: bold;
+}

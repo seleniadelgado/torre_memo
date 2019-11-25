@@ -1,0 +1,9 @@
+*vscode
+bin/*
+include/*
+lib/*
+*venv/
+*.swp
+*.pyc
+*__pycache__*
+db.sqlite3
